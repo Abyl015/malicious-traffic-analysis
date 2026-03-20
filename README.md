@@ -50,3 +50,5 @@ Screenshots of the analysis are provided in the `screenshots` folder:
 - HTTP POST requests
 - Suspicious traffic patterns
 - Normal traffic comparison
+## Author
+Abylai Kondybay – Cybersecurity student focused on SOC and network security.
