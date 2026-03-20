@@ -1,6 +1,6 @@
 ## Screenshots
 ### Malicious HTTP POST Requests
-![HTTP](ipaddr.png)
+![HTTP](ipaddr_requests.png)
 
 ### DNS Suspicious Domain
 ![DNS](dns_suspicious_domain.png)
